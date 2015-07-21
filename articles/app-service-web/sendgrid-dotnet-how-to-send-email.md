@@ -72,7 +72,7 @@ To install the SendGrid NuGet package in your application, do the following:
 2.  In the left-hand pane of the **Manage NuGet Packages** dialog, click **Online**.
 
 3.  Search for **SendGrid** and select the **SendGrid** item in the
-    results list (the current version is 5.0.0).
+    results list (the current version is 6.1.0).
 
     ![SendGrid NuGet package][SendGrid-NuGet-package]
 
@@ -173,7 +173,7 @@ The following examples show how to send a message using the Web API.
 
     // Send the email.
     // You can also use the **DeliverAsync** method, which returns an awaitable task.
-    transportWeb.Deliver(myMessage);
+    transportWeb.DeliverAsync(myMessage);
 
 <h2><a name="addattachment"></a>How to: Add an attachment</h2>
 

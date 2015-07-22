@@ -35,17 +35,17 @@ Azure customers can unlock 25,000 free emails each month. These 25,000 free mont
 
 6. After all these steps were done, click on the **Create** button and your SendGrid account will be created. A new dialog will appear from where you can manage you account.
 
-	![sendgrid-manage-account][sendgrid-manage-account]
+    ![sendgrid-manage-account][sendgrid-manage-account]
 
     You are ready to send emails at this point.
  
-	To send an email using SendGrid, you must supply your  account credentials (username and password).
+    To send an email using SendGrid, you must supply your account credentials (username and password).
 
 ### To find your SendGrid credentials ###
 
 1. Click **Settings**.
 
-2. In the *Settings* dialog click on **Configuration**, here you find the generated **Username**, and the **Password** is the one you provided it at the creation of the account.
+2. In the *Settings* dialog click on **Configuration**, here you find the generated **Username**, and the **Password** is the one you provided at the creation of the account.
  The Username and Password will be used later in this tutorial.
 
 	![sendgrid-configuration][sendgrid-configuration]
@@ -66,6 +66,6 @@ Azure customers can unlock 25,000 free emails each month. These 25,000 free mont
 [SendGrid Features]: http://sendgrid.com/features
 [Azure Portal]: https://portal.azure.com
 [all APIs]: https://sendgrid.com/docs/API_Reference/index.html
-[SendGrid Getting Started]: http://sendgrid.com/docs
+[SendGrid Getting Started]: https://sendgrid.com/docs
 
 
